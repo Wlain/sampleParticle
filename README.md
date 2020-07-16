@@ -1,2 +1,1 @@
-# sampleParticle
-sample particle emission
+使用OpenGL ES粒子系统进行魔幻笔绘制。
